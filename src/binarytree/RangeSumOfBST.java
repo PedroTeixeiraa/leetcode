@@ -1,3 +1,5 @@
+package binarytree;
+
 public class RangeSumOfBST {
 	public static class TreeNode {
 		int val;
